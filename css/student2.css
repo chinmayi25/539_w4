@@ -58,7 +58,7 @@ body{
  }
 
  .gallery{
-    border:2px solid black;
+    border:2px dashed black;
     width: 90%;
     margin: 0 auto;
     display: grid;
