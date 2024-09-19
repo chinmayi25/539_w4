@@ -60,6 +60,7 @@ body{
    border: 2px dashed black;
    width: 90%;
    justify-content: center;
+   margin: 0 auto;
 }
 
 .gallery img {
